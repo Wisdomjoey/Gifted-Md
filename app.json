@@ -1,5 +1,5 @@
 {
-  "name": "gifted-md@v5.0.0",
+  "name": "jayz",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted-md",
@@ -21,12 +21,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "JAY Z"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": false,
-      "value": "2547110853827"
+      "value": "2348029494195"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -41,7 +41,7 @@
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
@@ -51,7 +51,7 @@
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
@@ -81,7 +81,7 @@
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
       "required": false,
-      "value": ""
+      "value": "jayz"
     },
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
